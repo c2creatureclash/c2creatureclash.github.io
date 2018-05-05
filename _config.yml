@@ -1,7 +1,7 @@
 # Site settings
 title: "C2: Creature Clash"
 email: vnoronha@usc.edu
-description: "Augemented Reality based creature card game."
+description: "Augmented Reality based creature card game."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://c2creatureclash.github.io" # the base hostname & protocol for your site
 
