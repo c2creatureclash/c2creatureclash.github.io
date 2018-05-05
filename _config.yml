@@ -1,14 +1,14 @@
 # Site settings
-title: The Ooze Is Loose
+title: "C2: Creature Clash"
 email: vnoronha@usc.edu
-description: Infect enemies. Raise slimy monstrosities. Dominate the battlefield.
+description: "Augemented Reality based creature card game."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://theoozeisloose.github.io" # the base hostname & protocol for your site
+url: "https://c2creatureclash.github.io" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/theoozeisloose
+github_url: https://github.com/c2creatureclash
 gitlab_url:
 googleplus_url:
 instagram_url:
